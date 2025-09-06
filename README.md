@@ -28,3 +28,10 @@ Check status and install if missing:
 ```bash
 sudo ufw status
 sudo apt install ufw -y
+
+
+
+sudo ufw enable
+
+sudo ufw allow ssh
+
